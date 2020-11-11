@@ -11,11 +11,11 @@ pip install -r requirements.txt
 ```
 Running 
 
-python main.py
+python AutoKeyboard.py
 ```
 
 ```
 Adding 
 
-python main.py -add [shortcut] [full_word]
+python AutoKeyboard.py -add [shortcut] [full_word]
 ```
