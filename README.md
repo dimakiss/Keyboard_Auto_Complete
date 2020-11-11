@@ -8,14 +8,14 @@ pip install -r requirements.txt
 
 ## Usage 
 
-```
-Running 
+Running
+``` 
 
 python AutoKeyboard.py
 ```
 
-```
 Adding 
+```
 
 python AutoKeyboard.py -add [shortcut] [full_word]
 ```
